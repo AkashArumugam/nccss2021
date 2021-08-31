@@ -1558,8 +1558,9 @@ p {
 		width: 40px;
 	}
 
-		
-		
+	#navbar-container {
+		height: 140px;
+	}	
 }
 
 
@@ -1593,8 +1594,10 @@ p {
 	.mu-register-content {
 		padding: 0 100px;
 	}
-				
-
+	
+	#navbar-container {
+		height: 140px;
+	}
 }
 
 
@@ -1720,8 +1723,10 @@ p {
 	.mu-faq-content .panel-title {
 		font-size: 14px;
 	}
-					
 	
+	#navbar-container {
+		height: 140px;
+	}
 }
 
 
@@ -1773,6 +1778,10 @@ p {
 		left: 30px;
 		width: 280px;
 	}
+
+	#navbar-container {
+		height: 140px;
+	}
 }
 
 
@@ -1794,6 +1803,9 @@ p {
 		font-size: 22px;
 	}
 
+	#navbar-container {
+		height: 140px;
+	}
 }
 
 #intro{
