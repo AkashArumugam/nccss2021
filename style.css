@@ -1782,6 +1782,10 @@ p {
 	#navbar-container {
 		height: 140px;
 	}
+
+	#jumbo {
+		margin-top: 30px;
+	}
 }
 
 
